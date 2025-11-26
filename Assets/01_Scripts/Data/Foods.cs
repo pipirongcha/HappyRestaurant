@@ -1,10 +1,10 @@
 public enum FOODS
 {
     None,
-    FoodA,
-    FoodB,
-    FoodC,
-    FoodD,
-    FoodE,
-    FoodF
+    Water,
+    Salad,
+    Pizza,
+    Pasta,
+    Risotto,
+    Pancake
 }
